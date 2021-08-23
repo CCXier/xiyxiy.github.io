@@ -1,32 +1,14 @@
-## welcome
-### Markdown
+## welcome！new friendヾ(￣▽￣)
+啊咧啊咧，被你发现了！
+### 例行介绍(o◕∀◕)ﾉ
+嗯，名字叫“CC_Xier”，怎么称呼都无所谓啦~喜欢ACG，玩游戏，是个标准宅，我实在不想说宅男(･ω･`｡)感觉好丢脸。
+目前在求学，嗯呢呢~会努力学习的（頑張って！
+会的东西不多，梦想很朴素：拥有自己的小说。
+自己会一点点画画
+![图片2](https://user-images.githubusercontent.com/88967533/130389638-15b2fa83-8b04-4ae9-9875-eb69ae91846e.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+也会日常的做饭（可能好吃），喜欢的东西很多，最喜欢猫咪，但不想要调皮的猫猫。
+小时候有一只猫特别粘着我，我说什么猫猫都能理解，特别乖巧，但抓起老鼠又特别凶，反差萌(。￣□￣)ﾂ
+但后来猫猫死掉了~我不知道猫猫什么时候离开的，虽然它并不是我家的猫，但知道后还是很伤心，男人的伤心只会痛在心里，真的泪目( •̥́ ˍ •ू ) 
+从此之后其它猫猫都不喜欢，只喜欢它，因为怕自己照顾不好小动物，所以既想要猫猫又不想要猫猫。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CCXier/ltyccxier.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
