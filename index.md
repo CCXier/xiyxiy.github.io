@@ -44,11 +44,12 @@ ACG，玩游戏，是个标准的宅.－O－
 偶尔写时评（主要针对社会时事和时代分析），该不该说话题都比较偏，经常被审核锁和退档_〆(´Д｀ )
 
 #### 个人主页
-爱发电：https://afdian.net/@CCxiyxiy
-喜欢的话可以发电噢~
+- 爱发电：https://afdian.net/@CCxiyxiy
 
-bilibili：https://space.bilibili.com/660196687
+  （喜欢的话可以发电噢~）
 
-知乎：https://www.zhihu.com/people/xiyxiy
+- bilibili：https://space.bilibili.com/660196687
 
-GitHub：https://github.com/CCXier
+- 知乎：https://www.zhihu.com/people/xiyxiy
+
+- GitHub：https://github.com/CCXier
