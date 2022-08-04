@@ -6,17 +6,9 @@
 
 ##### ◆嗯，全称叫“CC_xiyxiy”，怎么称呼都无所谓
 你可以叫我熙熙，也可以叫我CC，也可以叫我xiyxiy
-<table border="50">
-  <tr>
-    <td width="75%">
-      <h1>CC_xiyxiy</h1>
 
-    </td>
-    <td width="25%">
-      <img src="/zhaopian.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
+![xiyxiy](/zhaopian.jpg)
+
 
 #### ◇爱好（hobbies）:
 ACG，玩游戏，是个标准的宅.－O－
