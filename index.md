@@ -6,7 +6,7 @@
 
 ##### ◆嗯，全称叫“CC_xiyxiy”，怎么称呼都无所谓
 你可以叫我熙熙，也可以叫我CC，也可以叫我xiyxiy
-<table border="0">
+<table border="50">
   <tr>
     <td width="75%">
       <h1>CC_xiyxiy</h1>
