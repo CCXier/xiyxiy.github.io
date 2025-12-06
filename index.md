@@ -1,6 +1,6 @@
 ##### 总有人激进奋前，总有人保守勇退。
 ##### 事分左右，人分立场（或许不是立场…）
-
+### ![xiyxiy](/zhaopian.jpg)
 ##### 总之，如你所见，本网页只是一个静态网页，仅作展示，我不会再添加其他功能。
 
 ####  ◇曾沿用的笔名：
@@ -9,8 +9,6 @@
 ##### Yassintes
 ##### 陈昀瑾
 ##### 从金乌
-
-![xiyxiy](/zhaopian.jpg)
 
 
 ### ◇爱好（hobbies）:
@@ -61,4 +59,10 @@
 
 - GitHub：https://github.com/CCXier
 
+- 公众号：单枞竹仔鱼
+- ![xiyxiy](/1605943887181.png)
+  
+- 小程序：TeaScraper
+- ![xiyxiy](/IMG_28461.jpg)
+  
 - 电子邮件（電郵）：teascraper@petalmail.com
