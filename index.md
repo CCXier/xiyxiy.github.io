@@ -76,6 +76,9 @@
 - bilibili：https://b23.tv/RjfYYDI
 
 - 知乎，小红书，微博，小黑盒，酷安，贴吧，抖音，虎扑，虎牙有号…
+- X，telegram，instagram，TikTok，Threads，Twitch，Shaft，ytb
+- 用来用去还是国内app舒适。国外的太杂了。
+
 
 - GitHub：https://github.com/CCXier
 
@@ -83,5 +86,4 @@
 
 - 小程序：TeaScraper（备案后就发布）
   
-- 电子邮件（電郵）：teascraper@petalmail.com
-- 英区注册华为账号时送的邮箱↑，感觉不好用。
+- 电子邮件（電郵）：teascraper@petalmail.com（英区注册华为账号时送的邮箱↑，感觉不好用。
